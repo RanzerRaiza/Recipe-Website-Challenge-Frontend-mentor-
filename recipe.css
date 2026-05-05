@@ -1,0 +1,54 @@
+body{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+    
+
+}
+img{
+    width: 1000px;
+    border-radius: 10px;
+}
+.pagetop{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+
+}
+.pagetop h1{
+    color: darkslategray;
+}
+.pagetop h2{
+    
+    color: blueviolet;
+}
+.ingredients{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+
+}
+.ingredients h2{
+    color: brown;
+}
+.instructions{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+
+}
+.instructions h2{
+    color: brown;
+}
+.bottompage{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+
+}
+.bottompage h2{
+    color: brown;
+}
+
